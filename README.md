@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gold Israel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdPYbsS17cu8m0wnNESdUUivRdf-thCFpAkwPgTrsCA&s">
 
-img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/f48a132a670e455f7874522f7b4e2c06854573e4aba97d0395b717a831ea25c1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f64633534356535613066393363396232626631643466306166353465626266662f74656e6f722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techiegold23&label=Profile%20views&color=0e75b6&style=flat" alt="techiegold23" /> </p>
 
@@ -31,4 +31,5 @@ img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.co
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techiegold23&show_icons=true&locale=en" alt="techiegold23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techiegold23&" alt="techiegold23" /></p>
+
 
